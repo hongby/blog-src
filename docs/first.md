@@ -1,3 +1,3 @@
-# my first vuepres blog
+# my first  blog
 
-first blog content here
+今天是新的一天，我开始了我的博客，刚刚设置好
